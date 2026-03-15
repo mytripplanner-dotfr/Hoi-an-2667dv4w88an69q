@@ -1,0 +1,187 @@
+{
+  "pays": "Vietnam",
+  "drapeau": "🇻🇳",
+  "symbole": "🏮",
+  "titre": "Hoi An : Sérénité et Charme Ancien",
+  "budget_total": "Environ 1900 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "18h30 (depuis Paris, France)",
+  "escale": "1 ou 2",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur de la Vieille Ville",
+      "legende": "Après un long voyage, la première journée est dédiée à une arrivée en douceur. Installez-vous confortablement et laissez-vous charmer par l'atmosphère paisible de la vieille ville d'Hoi An. Une balade relaxante le long de la rivière Thu Bon vous permettra de vous imprégner de l'ambiance unique de ce site classé au patrimoine mondial de l'UNESCO, idéal pour se détendre après le vol.",
+      "lieu": "Hoi An",
+      "activites": [
+        "🛬 <strong>Arrivée à Da Nang et transfert à Hoi An</strong>: Atterrissage à l'aéroport international de Da Nang (DAD), suivi d'un transfert d'environ 45 minutes vers votre hôtel à Hoi An.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous installer dans votre hébergement, choisi pour son confort et sa proximité avec le centre historique.",
+        "🚶‍♂️ <strong>Balade relaxante dans la Vieille Ville</strong>: Une première exploration à pied des ruelles pavées, sans but précis, pour admirer l'architecture unique et les lanternes colorées qui s'illuminent au crépuscule."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport International de Da Nang, Da Nang",
+          "categorie": "Aéroport",
+          "coords": { "lat": 16.0439, "lng": 108.199 }
+        },
+        {
+          "nom_recherche": "Hoi An Ancient Town, Hoi An",
+          "categorie": "Site historique",
+          "coords": { "lat": 15.8794, "lng": 108.335 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Les citoyens français ont besoin d'un visa pour le Vietnam. Pensez à l'obtenir avant votre départ, soit en ligne (e-visa), soit via l'ambassade."
+        },
+        {
+          "symbole": "💰",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie est le Dong Vietnamien (VND). Prévoyez quelques petites coupures pour les marchés et les petits commerces. Les cartes bancaires sont acceptées dans les hôtels et restaurants plus grands."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛶",
+      "titre": "Immersion Culturelle et Détente Fluviale",
+      "legende": "Cette journée est une invitation à la découverte des saveurs locales et à une immersion douce dans la nature environnante. Participez à un cours de cuisine pour percer les secrets de la gastronomie vietnamienne, puis laissez-vous porter par une balade en bateau-panier au cœur d'une forêt de cocotiers. Terminez par un moment de pure relaxation avec un massage traditionnel, une parenthèse bien-être méritée.",
+      "lieu": "Hoi An",
+      "activites": [
+        "🧑‍🍳 <strong>Cours de cuisine vietnamienne</strong>: Apprenez à préparer des plats emblématiques d'Hoi An dans une ambiance conviviale, souvent précédé d'une visite au marché local pour choisir les ingrédients frais.",
+        "🛶 <strong>Balade en bateau-panier dans la forêt de cocotiers de Cam Thanh</strong>: Une expérience unique et ludique, où vous naviguerez dans les palétuviers à bord d'un \"thung chai\", un bateau rond traditionnel, avec parfois des démonstrations de pêche au filet.",
+        "💆‍♀️ <strong>Massage relaxant vietnamien</strong>: Offrez-vous un moment de détente absolue dans l'un des nombreux spas d'Hoi An, réputés pour leurs massages apaisants et leurs prix abordables."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Hoi An Cooking Class, Hoi An",
+          "categorie": "Activité culinaire",
+          "coords": { "lat": 15.878, "lng": 108.337 }
+        },
+        {
+          "nom_recherche": "Cam Thanh Coconut Forest, Hoi An",
+          "categorie": "Nature",
+          "coords": { "lat": 15.894, "lng": 108.371 }
+        },
+        {
+          "nom_recherche": "Hoi An Ancient Town, Hoi An",
+          "categorie": "Spa",
+          "coords": { "lat": 15.8794, "lng": 108.335 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil culinaire",
+          "texte": "De nombreux cours de cuisine incluent une visite du marché. C'est une excellente occasion de découvrir les produits locaux et d'apprendre quelques mots de vietnamien."
+        },
+        {
+          "symbole": " bargaining",
+          "titre": "Négociation",
+          "texte": "N'hésitez pas à négocier les prix dans les marchés et pour les services comme les massages. C'est une pratique courante au Vietnam."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏖️",
+      "titre": "Plage, Artisanat et Départ Serein",
+      "legende": "Pour cette dernière journée, profitez de la brise marine sur une plage paisible, puis plongez dans l'artisanat local pour quelques souvenirs. Hoi An est célèbre pour ses tailleurs et ses boutiques d'art. Après un dernier repas savoureux, il sera temps de préparer votre départ, emportant avec vous des souvenirs inoubliables de cette ville charmante et relaxante.",
+      "lieu": "Hoi An",
+      "activites": [
+        "🏖️ <strong>Détente à An Bang Beach</strong>: Passez la matinée sur l'une des plages les plus agréables d'Hoi An, An Bang. Profitez du soleil, de la mer calme et des cafés de plage pour un moment de pure relaxation.",
+        "🛍️ <strong>Shopping et artisanat local</strong>: Flânez dans les boutiques de la vieille ville pour trouver des souvenirs uniques : lanternes en soie, vêtements sur mesure, poteries ou objets d'artisanat.",
+        "🍽️ <strong>Dîner d'adieu et transfert à l'aéroport</strong>: Savourez un dernier repas vietnamien dans un restaurant au bord de la rivière avant de prendre votre transfert vers l'aéroport de Da Nang pour votre vol retour."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "An Bang Beach, Hoi An",
+          "categorie": "Plage",
+          "coords": { "lat": 15.922, "lng": 108.361 }
+        },
+        {
+          "nom_recherche": "Hoi An Ancient Town, Hoi An",
+          "categorie": "Shopping",
+          "coords": { "lat": 15.8794, "lng": 108.335 }
+        },
+        {
+          "nom_recherche": "Aéroport International de Da Nang, Da Nang",
+          "categorie": "Aéroport",
+          "coords": { "lat": 16.0439, "lng": 108.199 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "👗",
+          "titre": "Tailleur sur mesure",
+          "texte": "Hoi An est réputée pour ses tailleurs qui peuvent confectionner des vêtements sur mesure en 24 à 48 heures. C'est une expérience unique et un excellent souvenir."
+        },
+        {
+          "symbole": "🚕",
+          "titre": "Transport aéroport",
+          "texte": "Réservez votre taxi ou votre service de Grab (équivalent d'Uber) à l'avance pour le transfert vers l'aéroport de Da Nang, surtout si votre vol est tôt le matin ou tard le soir."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "1301 €/personne (A/R Paris-Da Nang)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 75 €/personne (transferts aéroport, taxis locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 200 €/personne (3 jours, restaurants de gamme moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 200 €/personne (3 nuits en hôtel 3 étoiles)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 125 €/personne (cours de cuisine, bateau-panier, massage, entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Février à Mai", "symbole": "☀️" },
+    { "titre": "Juin à Août (chaud et humide)", "symbole": "🌡️" },
+    { "titre": "Septembre à Janvier (saison des pluies, risque de typhons en Octobre-Novembre)", "symbole": "🌧️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En octobre, Hoi An est en pleine saison des pluies. Attendez-vous à des averses fréquentes et parfois intenses. Les températures varient entre 23 et 30°C. Prévoyez des vêtements légers, un imperméable et des chaussures résistantes à l'eau.", "symbole": "☔" },
+    { "titre": "Le Dong Vietnamien (VND) est la monnaie locale. Les cartes de crédit sont acceptées dans les grands hôtels et restaurants, mais prévoyez du liquide pour les marchés, les petits commerces et les transports locaux. Les distributeurs sont nombreux.", "symbole": "💳" },
+    { "titre": "Un visa est obligatoire pour les citoyens français. Il peut être obtenu en ligne (e-visa) ou auprès de l'ambassade du Vietnam. Assurez-vous de l'avoir avant votre départ.", "symbole": "🛂" },
+    { "titre": "Pour rester connecté, une carte SIM locale (Viettel, Mobifone) ou une eSIM est recommandée. Le Wi-Fi est généralement disponible et gratuit dans la plupart des hébergements et cafés.", "symbole": "📶" },
+    { "titre": "Les taxis et l'application Grab (équivalent d'Uber) sont les moyens de transport les plus pratiques et abordables pour se déplacer entre Da Nang et Hoi An, ainsi qu'à l'intérieur de la ville. Les vélos sont également très populaires à Hoi An.", "symbole": "🛵" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🏮",
+      "titre": "La Ville des Lanternes",
+      "texte": "Chaque 14ème jour du mois lunaire, Hoi An éteint ses lumières électriques et s'illumine uniquement de milliers de lanternes en soie colorées. C'est le Festival des Lanternes de la Pleine Lune, une expérience magique et hors du temps qui transforme la ville en un tableau féerique."
+    },
+    {
+      "symbole": "🌉",
+      "titre": "Le Pont Japonais et son Chien-Singe",
+      "texte": "Le célèbre Pont Couvert Japonais d'Hoi An est gardé par des statues de singes et de chiens à chaque extrémité. La légende raconte que la construction du pont a commencé l'année du Chien et s'est terminée l'année du Singe, symbolisant la protection et la bonne fortune."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍜",
+      "titre": "Cao Lau",
+      "description": "Un plat de nouilles unique à Hoi An, avec des nouilles épaisses et fermes, du porc rôti, des herbes fraîches et des croûtons, le tout arrosé d'une sauce spéciale préparée avec de l'eau du puits Ba Le."
+    },
+    {
+      "symbole": "🍲",
+      "titre": "Mi Quang",
+      "description": "Des nouilles de riz jaunes servies avec un bouillon riche mais léger, garnies de porc, de crevettes, d'œufs de caille, de cacahuètes grillées et de galettes de riz croustillantes. Un délice régional !"
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Banh Bao Vac (White Rose Dumplings)",
+      "description": "De délicats raviolis de riz translucides, farcis de crevettes ou de porc assaisonné, cuits à la vapeur et parsemés d'oignons frits. Leur forme rappelle des roses blanches, d'où leur nom poétique."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-DAD/2026-10-14/2026-10-17", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Vietnam", "url": "https://vietnam.travel/", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Vietnam", "url": "https://www.accuweather.com/fr/vn/vietnam-weather", "symbole": "🌤️" },
+    { "legende": "E-visa Vietnam", "titre": "Portail E-visa officiel", "url": "https://evisa.xuatnhapcanh.gov.vn/web/guest/home", "symbole": "🛂" }
+  ]
+}
